@@ -1,0 +1,14 @@
+*
+!/.gitignore.d
+!/.gitignore.d/vim
+!/.vim
+!/.vim/after
+!/.vim/after/ftplugin
+!/.vim/after/ftplugin/mail
+!/.vim/after/ftplugin/mail/mail.vim
+!/.vim/autoload
+!/.vim/autoload/pathogen.vim
+!/.vim/colors
+!/.vim/colors/solarized.vim
+!/.vim/vim
+!/.vimrc
